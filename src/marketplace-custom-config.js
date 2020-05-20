@@ -38,6 +38,33 @@ export const categories = [
   { key: 'desserts', label: 'Desserts' },
 ];
 
+export const benefits = [
+  {
+    key: 'detox',
+    label: 'Detox',
+  },
+  {
+    key: 'brain_boosters',
+    label: 'Brain boosters',
+  },
+  {
+    key: 'probiotics',
+    label: 'Probiotics',
+  },
+  {
+    key: 'immunity_builder',
+    label: 'Immunity builder',
+  },
+  {
+    key: 'workout_fuel',
+    label: 'Workout fuel',
+  },
+  {
+    key: 'indulgence',
+    label: 'Indulgence',
+  },
+];
+
 // Price filter configuration
 // Note: unlike most prices this is not handled in subunits
 export const priceFilterConfig = {
