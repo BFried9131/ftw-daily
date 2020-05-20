@@ -4,44 +4,38 @@
 
 export const amenities = [
   {
-    key: 'towels',
-    label: 'Towels',
+    key: 'detox',
+    label: 'Detox',
   },
   {
-    key: 'bathroom',
-    label: 'Bathroom',
+    key: 'brain_boosters',
+    label: 'Brain boosters',
   },
   {
-    key: 'swimming_pool',
-    label: 'Swimming pool',
+    key: 'probiotics',
+    label: 'Probiotics',
   },
   {
-    key: 'own_drinks',
-    label: 'Own drinks allowed',
+    key: 'immunity_builder',
+    label: 'Immunity builder',
   },
   {
-    key: 'jacuzzi',
-    label: 'Jacuzzi',
+    key: 'workout_fuel',
+    label: 'Workout fuel',
   },
   {
-    key: 'audiovisual_entertainment',
-    label: 'Audiovisual entertainment',
-  },
-  {
-    key: 'barbeque',
-    label: 'Barbeque',
-  },
-  {
-    key: 'own_food_allowed',
-    label: 'Own food allowed',
+    key: 'indulgence',
+    label: 'Indulgence',
   },
 ];
 
 export const categories = [
-  { key: 'smoke', label: 'Smoke' },
-  { key: 'electric', label: 'Electric' },
-  { key: 'wood', label: 'Wood' },
-  { key: 'other', label: 'Other' },
+  { key: 'salads', label: 'Salads' },
+  { key: 'bowls', label: 'Bowls' },
+  { key: 'sandwiches', label: 'Sandwiches' },
+  { key: 'smoothies', label: 'Smoothies' },
+  { key: 'juices', label: 'Juices' },
+  { key: 'desserts', label: 'Desserts' },
 ];
 
 // Price filter configuration
